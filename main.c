@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//файл учебный
 int main (void)
 {
 	int a,b;
